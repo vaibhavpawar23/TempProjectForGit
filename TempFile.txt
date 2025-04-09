@@ -1,8 +1,6 @@
 This is a new file -- Added before creating a repository
 a
 b
-c
-d
 
 
 pqrs
